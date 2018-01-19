@@ -31,6 +31,7 @@ Supports all major media players, including full Spotify (thanks to **[.raptor](
 - You need at least **Rainmeter 4.0 (r2746) or higher** to get all features of this skin. You can find the newest version on https://www.rainmeter.net/
 - After installation you can access the settings by right-clicking the visualizer or song information and then clicking on Open Settings.
 - Due to limitations of Rainmeter/the plugin used for the visualization the complete audio output of your system will be shown on the visualizer. For the best experience only play music. This is something I can’t fix.
+Musixmatch Lyrics Support Is Coming Soon.
 
 ## Getting started
 
